@@ -1,4 +1,7 @@
 ---
+layout: default
+title: My Page Title
+---
 # DATABASE MANAGEMENT SYSTEM
 ***
 ## Table of Content
