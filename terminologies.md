@@ -1,7 +1,4 @@
----
-layout: default
-title: My Page Title
----
+
 ---
 # DATABASE KEY TERMINOLOGIES
 
