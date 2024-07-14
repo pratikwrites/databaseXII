@@ -2,7 +2,7 @@
 ---
 ## *A Sample Database*
 
-| Name | Id:key: | Address | Passport No. | Subject |
+| Name | Id 🔑 | Address | Passport No. | Subject |
 |:-----|:-----|:--------|:-------------|:--------|
 |Pratik|1|Dang|0011|Travel|
 |Darshan|2|Kawasoti|0012|Study|
@@ -33,14 +33,14 @@ alternate key. It can be the substitute to the primary key if needed.
 
 #### Database 1
 
-| Name | Id :key: | Address | Passport No. | Subject |
+| Name | Id 🔑 | Address | Passport No. | Subject |
 |:-----|:-----|:--------|:-------------|:--------|
 |Pratik|1|Dang|0011|Travel|
 |Darshan|2|Kawasoti|0012|Study|
 
 #### Database 2
 
-| Id | Project No :key:| Project title |
+| Id | Project No 🔑| Project title |
 |:--|:--|:--|
 |1|101|Robotics|
 |2|102|Physics|
@@ -58,7 +58,7 @@ alternate key. It can be the substitute to the primary key if needed.
 
 #### Database 1
 
-| Name | Id :key: | Address | Passport No. |Subject |<mark> Code |
+| Name | Id 🔑 | Address | Passport No. |Subject |<mark> Code |
 |:-----|:-----|:--------|:-------------|:--------|:--|
 |Pratik|1|Dang|0011|Travel|ABC|
 |Darshan|2|Kawasoti|0012|Study|XYZ|
