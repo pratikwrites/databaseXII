@@ -15,6 +15,7 @@ Database Administration refers to every steps and phases involved from creating 
 8. Maintain backup and keep database upto date.
 
 ### Database Administrator
+> An individual responsibel for overseeing the proper operation of the server and the database is the database administrator. Such offier is to be fluent and acquantained with data, database and SQL.
 He/she should properly identify the domain and design the database scheme accordingly and constantly maintain the database integrity and security.
 
 ---
