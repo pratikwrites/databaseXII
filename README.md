@@ -7,4 +7,5 @@
 * [Setting up Xampp](xampp.html)
 * [Setting up Github  with VS code](setting.html)
 * [DML](dml.html)
+* [Database Administration](administration.html)
 
