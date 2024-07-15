@@ -1,4 +1,4 @@
-# Data Manupulation Language (DML)
+# Data Manipulation Language (DML)
 ---
 
 ## Background
@@ -48,7 +48,7 @@ WHERE Price=135;
 ### Syntax
 ```sql
 DELETE FROM table_name
-Where Condition;
+WHERE Condition;
 ```
 
 ### Example

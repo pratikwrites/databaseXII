@@ -9,7 +9,7 @@
 
 ---
 ## Information
-**Information is the piece of meaningful processed data which holds a contextual meaning. These are often tabulated fromm the raw facts and figures. For example: Report chart.**
+**Information is the piece of meaningful processed data which holds a contextual meaning. These are often tabulated from the raw facts and figures. For example: Report chart.**
 
 ---
 ## Metadata
@@ -17,7 +17,7 @@
 
 ---
 ## Data Dictionary
-**Data dictionary in DBMS is such a element which helps user to organize data in a neat and organized way this reducing the possiblilty of data redundancy. It is the important part of relational database because it provides additional information about the relationship between several tables in the database.**
+**Data dictionary in DBMS is such a element which helps user to organize data in a neat and organized way thus reducing the possiblilty of data redundancy. It is the important part of relational database because it provides additional information about the relationship between several tables in the database.**
 
 ---
 ## Database

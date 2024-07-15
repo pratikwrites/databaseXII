@@ -14,7 +14,7 @@ To be familier with using github and its set up with VS code, there are certain 
 ## 1. Creating a Gmail account
     1. Open gmail in your browser or go to "accounts.google.com".
     2. Click on "Create account".
-    3. You will be provided with account types. Click on "For my person use" or "For my child" or "For work or my business".
+    3. You will be provided with account types. Click on "For my personal use" or "For my child" or "For work or my business".
     4. Enter your details: First Name, Last Name, Date of Birth, Gender, Desired mail id and set a strong password.
     5. Create verification methods and also verify your phone number.
     6. Click on "Agree to terms and conditions"
@@ -34,7 +34,7 @@ To be familier with using github and its set up with VS code, there are certain 
     3. Sign in to github by opening Command Palatte.
     4. Now your default browser will open prompting you to authorize VS Code to access your Github account.
     5. Click on " Authorize Visual Code".
-    6. Your github account is connected to VS Code.
+    6. Your github account is now connected to VS Code.
 
 ## 4. Cloning/Pulling a Repository from Github
 
